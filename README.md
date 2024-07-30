@@ -20,7 +20,7 @@ The Early Churn Prediction App not only identifies customers at high risk of chu
 ![App Screenshot](https://drive.google.com/uc?id=1XNaUTR4Um9HYLWVKGAbs1uSS10ktSnu-&export=download)
 
 
-## TAPIWA CHAMBOKO
+## Kumbirai Muhwati
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tapiwachamb.github.io/kmuhwati/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://linkedin.com/in/kumbirai-muhwati/)
 [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=githubr&logoColor=white)](https://github.com/kmuhwati)
